@@ -17,4 +17,3 @@ Fetch All Countries
 Endpoint: https://restcountries.com/v3.1/all
 
 
-host: http://localhost:5173/
